@@ -1,6 +1,6 @@
 # Image-Classification-on-Eye-Disease-Dataset
 
-## Project Title: Exploratory Analysis and Clustering Techniques for Customer Segmentation in Banking
+## Project Title - Image Classification using Convolutional Neural Networks: A Deep Learning Approach for Diagnosing Eye Diseases
 ### PROJECT OVERVIEW
 The task is Eye Diseases Classification using a Convolutional Neural Network (CNN). The goal is to develop a model capable of classifying retinal images into different categories of eye diseases. 
 
